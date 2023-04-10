@@ -1,0 +1,7 @@
+.band-card:hover{
+    border: none;
+
+    opacity: 0.8;
+    transition: 0.3s;
+}
+.band-card:hover {opacity: 2}
